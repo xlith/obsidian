@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "3c4ff3a5f21a5919",
+    "type": "split",
+    "children": [
+      {
+        "id": "c972f4a9dc0d36d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d087f3c30a536c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a59210bf1560a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9cdd2f6ade89b3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637b7d41118e474a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c0f97341350e765",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f9559226c5f8e3e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "right": {
+    "id": "7a1141e1a07f31d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "71d98a6d5e1f87fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d631b75447549ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "49f63da6129139df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "d8da19638af1c4b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8fcc834c13d991c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "1602e4ba53eb6a1e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 487.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "publish:Publish changes...": false,
+      "obsidian-livesync:Show Customization sync": false
+    }
+  },
+  "active": "1602e4ba53eb6a1e",
+  "lastOpenFiles": [
+    "config/local-first/README.md",
+    "config/local-first",
+    "config",
+    "This is a test note.md",
+    "test2.md",
+    "Welcome.md",
+    "github-repo/README.md",
+    "github-repo",
+    "Clippings/brsFiddle A BrightScript coding playground for Roku developers!.md",
+    "Excalidraw/Drawing 2025-10-18 15.32.01.excalidraw.md",
+    "Clippings",
+    "Excalidraw",
+    "civan.me/Home.md",
+    "civan.me/Untitled.md",
+    "civan.me"
+  ]
+}
